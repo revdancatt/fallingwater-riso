@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/.DS_Store
+/01 colour one preview.png
+/01 colour one.png
+/02 colour two preview.png
+/02 colour two.png
+/preview.png
+/package-lock.json
+/old_index.html
+/old_index.js
